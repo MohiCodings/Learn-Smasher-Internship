@@ -1,21 +1,28 @@
 # Learn-Smasher-Internship-Task-1
- Internship  tasks
+# Countdown using Javascript
  
- Countdown Project
-This project is a simple countdown timer implemented using JavaScript, HTML, and CSS. 
-It was developed as an internship task to showcase skills in front-end web development.
+This project is a  countdown timer implemented using JavaScript, HTML, and CSS. <br>
+It was developed as an internship task to showcase my skills in  web development.
 
-Features:
-Set a specific countdown time and start the timer.
-Display the remaining time in hours, minutes, and seconds.
-Update the timer in real-time.
+## Getting Started
+To see Countdown timer, follow these steps:<br>
+Download or copy the code from this repository.<br>
+Open the index.html file in a web browser.
+
+## Features
+Set a specific countdown time and start the timer.<br>
+Display the remaining time in hours, minutes, and seconds.<br>
+Update the timer in real-time.<br>
 Shows message "Time's Up"  when the countdown reaches zero.
 
-Technologies Used:
-JavaScript
-HTML
-CSS
+## Technologies Used:
+-JavaScript<br>
+-HTML<br>
+-CSS<br>
 
-Acknowledgments
+## you can check full tutorial on:
+https://youtu.be/gmyMvXwkX2M
+
+## Acknowledgments
 This project was developed as an internship task for [Learn Smasher - Web development Intern].
 
